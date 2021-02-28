@@ -1,0 +1,54 @@
+body {
+	font-family: ;
+	background-color: #F9EDD4;
+	margin-left: 0em;
+	max-width: 50em;
+	background-image: url("images/b6.jpg");
+}
+
+.round {
+	border-radius: 100px;
+	box-shadow: 0 0 0 3px green, 0 0 13px #333;
+	margin-left: 14.5em;
+}
+
+h2 {
+	margin-left: 5em;
+	max-width: 50em;
+	font-family: Garamond;
+	font-size: 2em;
+}
+h1 {
+	font-family:Bookman;
+	margin-left: 1em;
+	max-width: 50em;
+	font-size:;
+}
+
+#info {
+	font-family: Palatino;
+	color:#A43428;
+	margin-left: 6em;
+	font-size: 1.5em;
+}
+
+#t1 {
+	border: 1px solid black;
+	border-collapse: collapse;
+	border-color:#A43428; 
+}
+
+#p1 {
+	font-style: italic;
+	font-size:1.1em;
+}
+
+h3 {
+	font-size: 2em;
+	font-family: Garamond;
+	margin-left: 7em;
+}
+
+span {
+	color:#A43428;
+}
